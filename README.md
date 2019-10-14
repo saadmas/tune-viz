@@ -4,7 +4,7 @@ Visualizations for Rezz's top Spotify tracks focused on audio features
 
 Technologies used:
 
-- Spotify API
+- Spotify API via Spotipy (Python wrapper library)
 - Python
 - Jupyter Notebook
 - Matplotlib
@@ -39,18 +39,10 @@ According to Spotify:
 
 **Note, if repo is cloned, the code in the Jupyter Notebook will not run properly as the app secret has not been pushed to GitHub so the Spotipy client will fail to connect. Until deployment, please refer to screenshots below for the visualizations**
 
-# Visualization 1: Danceability
-
 ![](viz-screenshots/tune-viz-danceability.PNG)
-
-# Visualization 2: Energy
 
 ![](viz-screenshots/tune-viz-energy.PNG)
 
-# Visualization 3: Instrumentalness
-
 ![](viz-screenshots/tune-viz-instrumentalness.PNG)
-
-# Visualization 4: Valence
 
 ![](viz-screenshots/tune-viz-valence.PNG)
