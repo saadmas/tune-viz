@@ -37,7 +37,10 @@ According to Spotify:
 4. Spider On The Moon
 5. Life & Death
 
-**Note, if repo is cloned, the code in the Jupyter Notebook will not run properly as the app secret has not been pushed to GitHub so the Spotipy client will fail to connect. Until deployment, please refer to screenshots below for the visualizations**
+**Notes:**
+
+- To read code without running Jupyter, please see Python source code [here](tune-viz.py)
+- If repo is cloned, the code in the Jupyter Notebook will not run properly as the app secret has not been pushed to GitHub so the Spotipy client will fail to connect. Until deployment, please refer to screenshots below for the visualizations
 
 ![](viz-screenshots/tune-viz-danceability.PNG)
 
